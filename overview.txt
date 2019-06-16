@@ -1,0 +1,19 @@
+quick overview 
+
+data mining - the process of extracting patterns from data for some purpose such as making predictions
+
+general formula for data mining 
+1. get data 
+2. get pattern from data
+3. apply pattern to do something
+
+supervised learning vs. unsupervised learning
+supervised learning has labels (Y values), find patterns in fully observed data and apply to partially observed data 
+unsupervised learning doesn't have labels, find hidden patterns in data
+
+
+continuous variables vs. discrete variables
+continuous variables have continuous values (e.g. [0, 1]) 
+discrete variables have finite values (e.g. "spam" and "ham")
+
+
